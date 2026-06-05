@@ -8,7 +8,7 @@ This repository serves as a centralized hub for my professional documents, crede
 ## 📄 Documents Included Here
 
 *https://github.com/Ashteq/Portfolio_Akanksha_Sharma/blob/main/Akanksha_Sharma_Resume.pdf
-* https://github.com/Ashteq/Portfolio_Akanksha_Sharma/blob/main/India%20Space%20Academy_Internship%20letter.PDF
+https://github.com/Ashteq/Portfolio_Akanksha_Sharma/blob/main/India%20Space%20Academy_Internship%20letter.PDF
 ## 🚀 Highlighted Technical Work
 
 While this repository holds my credentials, my actual engineering work lives in my main repositories. Please check out my profile to see my source code, including:
